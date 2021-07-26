@@ -23,3 +23,9 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+/.mvn/
+micro-oauth2-auth/src/main/resources/static/
+micro-oauth2-auth/src/main/resources/templates/
+micro-oauth2-gateway/src/main/resources/static/
+micro-oauth2-gateway/src/main/resources/templates/
